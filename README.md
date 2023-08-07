@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mama9775
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Java
+- 📫 You can reach me on Discord
